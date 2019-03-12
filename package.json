@@ -18,6 +18,8 @@
   "homepage": "https://github.com/wangxiulian/grunt-demo#readme",
   "devDependencies": {
     "grunt": "^1.0.3",
+    "grunt-contrib-imagemin": "^3.1.0",
     "grunt-contrib-uglify": "^4.0.0"
-  }
+  },
+  "dependencies": {}
 }
